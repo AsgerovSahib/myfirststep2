@@ -1,0 +1,53 @@
+ 
+#contact-form{
+padding: 10px;
+}
+ul{
+    list-style: none;
+}
+
+label{
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 10px;
+    display: block;
+    width: 100%;
+}
+input{
+    padding: 10px;
+    display: block;
+    width: 100%;    
+}
+textarea{
+    padding: 10px;
+    width:  100%;    
+}
+
+
+
+
+.submit{
+
+    width: 100px;
+}
+
+footer {
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 30px;
+    border-top: 8px solid #4aaaa5;
+    text-transform: capitalize;
+    clear: both;
+    width: 100%;
+    background-color: #666;
+    color: #ccc;
+  }
+  footer .foth3 {
+    font-size: 16px;
+    margin: 0 auto;
+  }
+  h3 {
+    text-align: center;
+  }
+  
+
